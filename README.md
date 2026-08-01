@@ -88,3 +88,23 @@ py automation.py
 ## Author
 
 **Prasidhee Mishra**
+
+---
+
+# 📸 Project Screenshots
+
+## Python Code
+
+![Python Code](screenshots/Screenshot%202026-07-27%20132348.png)
+
+## Terminal Output
+
+![Terminal Output](screenshots/Screenshot%202026-07-27%20132448.png)
+
+## Excel Output
+
+![Excel Output](screenshots/Screenshot%202026-07-27%20132545.png)
+
+## Summary Sheet
+
+![Summary Sheet](screenshots/Screenshot%202026-07-27%20121623.png)
